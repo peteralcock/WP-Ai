@@ -1,5 +1,5 @@
 # WP-Ai
-Automate and schedule blog posts, repurpose RSS feeds as content, and add custom chatbots to your site!
+Generate scheduled blog posts, republish RSS feeds, and put chatbots on your site!
 
 - ![Screenshot 19](screenshots/screenshot-00019.jpeg)
 
