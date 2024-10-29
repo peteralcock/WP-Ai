@@ -68,9 +68,6 @@ No intermediaries—pay only for OpenAI API usage.
 ### Super Configurable
 Choose models, control text output, import/export settings, and prompts.
 
-### Multi-language Support
-Available in 30+ languages. Extra languages upon request.
-
 ### Text Style & Tone Control
 Customize text style, tone, and perspective with **GPT-4 and gpt-3.5-turbo**.
 
