@@ -1,5 +1,5 @@
 # Hemingwai
-Try my Wordpress Ai-Kit plugin for generating blog content, fine-tuning your own models, and/or running chatbots on your self-hosted Wordpress website.
+Try my Wordpress Ai-Kit plugin for generating blog content, fine-tuning your own models, and/or running chatbots on your site
 
 ## Features
 "There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self."
