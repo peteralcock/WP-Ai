@@ -1,7 +1,5 @@
-# WP-Ai
-Generate scheduled blog posts, republish RSS feeds, fine-tune models, and deploy chatbots!
-
-- ![Screenshot 19](screenshots/screenshot-00019.jpeg)
+# Hemingwai for Wordpress
+AI plugin for generating content, fine-tuning models, and running chatbots.
 
 ## Features
 
@@ -82,7 +80,7 @@ Customize text style, tone, and perspective with **GPT-4 and gpt-3.5-turbo**.
 - **Image Prompt Generation**
 
 ## Screenshots
-
+- ![Screenshot 19](screenshots/screenshot-00019.jpeg)
 - ![Screenshot 1](screenshots/screenshot-00001.jpeg)
 - ![Screenshot 2](screenshots/screenshot-00002.jpeg)
 - ![Screenshot 3](screenshots/screenshot-00003.jpeg)
@@ -101,7 +99,6 @@ Customize text style, tone, and perspective with **GPT-4 and gpt-3.5-turbo**.
 - ![Screenshot 16](screenshots/screenshot-00016.jpeg)
 - ![Screenshot 17](screenshots/screenshot-00017.jpeg)
 - ![Screenshot 18](screenshots/screenshot-00018.jpeg)
-- ![Screenshot 19](screenshots/screenshot-00019.jpeg)
 
 
 
