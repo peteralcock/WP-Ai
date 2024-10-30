@@ -1,5 +1,5 @@
 # Hemingwai for Wordpress
-AI plugin for generating content, fine-tuning models, and running chatbots.
+Ai-powered plugin for generating content, fine-tuning models, and running chatbots.
 
 ## Features
 
