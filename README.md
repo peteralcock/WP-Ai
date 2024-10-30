@@ -1,7 +1,8 @@
 # Hemingwai for Wordpress
-Ai-powered plugin for generating content, fine-tuning models, and running chatbots.
+"There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self."
 
 ## Features
+This is an Ai-powered plugin for generating content, fine-tuning models, and running chatbots.
 
 ### NEW! Anthropic Integration
 WP-Ai now supports **Anthropic AI** text generation. Anthropic AI is a new model that generates human-like text with exceptional quality. This integration is available within your favorite WordPress editors, including **Gutenberg, Classic Editor, WooCommerce, WP Bakery,** and **Elementor**.
