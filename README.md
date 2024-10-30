@@ -1,8 +1,8 @@
 # Hemingwai for Wordpress
-"There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self."
+This is my latest Wordpress plugin, an Ai-Kit for generating blog content, fine-tuning your own models, and/or running chatbots on your self-hosted Wordpress website. I've devided to make it FREE (as in beer) for everyone and their mothers. 
 
 ## Features
-This is an Ai-powered plugin for generating content, fine-tuning models, and running chatbots on your Wordpress site.
+"There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self."
 
 ### NEW! Anthropic Integration
 WP-Ai now supports **Anthropic AI** text generation. Anthropic AI is a new model that generates human-like text with exceptional quality. This integration is available within your favorite WordPress editors, including **Gutenberg, Classic Editor, WooCommerce, WP Bakery,** and **Elementor**.
