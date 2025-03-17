@@ -1,4 +1,4 @@
-# Hemingwai
+# WP-Ai
 Try my Wordpress Ai-Kit plugin for generating blog content, fine-tuning your own models, and/or running chatbots on your site
 
 ## Features
