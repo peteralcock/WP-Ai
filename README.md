@@ -1,8 +1,5 @@
 # WP-Ai
-Try my Wordpress Ai-Kit plugin for generating blog content, fine-tuning your own models, and/or running chatbots on your site
-
-## Features
-"There is nothing noble in being superior to your fellow men. True nobility lies in being superior to your former self."
+Wordpress plugin for generating blog content, fine-tuning your own models, and/or running chatbots on your site
 
 ### NEW! Anthropic Integration
 WP-Ai now supports **Anthropic AI** text generation. Anthropic AI is a new model that generates human-like text with exceptional quality. This integration is available within your favorite WordPress editors, including **Gutenberg, Classic Editor, WooCommerce, WP Bakery,** and **Elementor**.
